@@ -1,4 +1,3 @@
-import { describe, expect, it } from '@jest/globals'
 import { greet } from './greet'
 
 describe('greet', () => {
