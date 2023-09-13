@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    'standard-with-typescript',
+    '@npm-update-package/eslint-config-typescript',
     'plugin:jest/recommended'
   ],
   parserOptions: {
